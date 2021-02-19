@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELUXE-PC</Machine>
+    <WindowsUser>deluxe</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d4c01790-b7cf-4b7a-92ac-a75ed3c7ee16</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>75E4C31BA3FCE3A75BDA9EBE4CB9FC23E3B82043739CC6E5575C054AEC2D6DBE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d4c01790-b7cf-4b7a-92ac-a75ed3c7ee16_1.0.0.0_neutral__fbgpqfc6hchjy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d4c01790-b7cf-4b7a-92ac-a75ed3c7ee16_fbgpqfc6hchjy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d4c01790-b7cf-4b7a-92ac-a75ed3c7ee16</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=lcauret</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-19T12:11:23.270</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.exe">
+      <PackagePath>EcoTagDemo.exe</PackagePath>
+      <Modified>2015-02-20T08:33:04.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T10:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T10:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T13:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T13:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\packages\Newtonsoft.Json.6.0.6\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-11-06T14:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T10:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T10:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T10:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T10:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\alerte1_0003s_0006s_0000_fenetre-ouverte.png">
+      <PackagePath>Assets\alerte1_0003s_0006s_0000_fenetre-ouverte.png</PackagePath>
+      <Modified>2014-11-12T14:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\alerte3_0003s_0004s_0000_fenetre-fermée.png">
+      <PackagePath>Assets\alerte3_0003s_0004s_0000_fenetre-fermée.png</PackagePath>
+      <Modified>2014-12-09T13:11:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\ECOTAG_EcranMiroir-20141016_0001_off-localisation.png">
+      <PackagePath>Assets\ECOTAG_EcranMiroir-20141016_0001_off-localisation.png</PackagePath>
+      <Modified>2014-10-17T11:53:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-13T14:48:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\logo_chauffe-eau.png">
+      <PackagePath>Assets\logo_chauffe-eau.png</PackagePath>
+      <Modified>2014-11-12T14:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\logo_loc_press_0001_off-localisation.png">
+      <PackagePath>Assets\logo_loc_press_0001_off-localisation.png</PackagePath>
+      <Modified>2014-10-17T13:17:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\logo_lumiere.png">
+      <PackagePath>Assets\logo_lumiere.png</PackagePath>
+      <Modified>2014-11-12T14:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\logo_note_off_0001_BTN-Note.png">
+      <PackagePath>Assets\logo_note_off_0001_BTN-Note.png</PackagePath>
+      <Modified>2014-10-20T13:01:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\logo_note_press_0001_BTN-Note.png">
+      <PackagePath>Assets\logo_note_press_0001_BTN-Note.png</PackagePath>
+      <Modified>2014-10-20T13:01:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\logo_notif_0001_off-notification.png">
+      <PackagePath>Assets\logo_notif_0001_off-notification.png</PackagePath>
+      <Modified>2014-10-17T12:13:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\logo_notif_press_0001_off-notification.png">
+      <PackagePath>Assets\logo_notif_press_0001_off-notification.png</PackagePath>
+      <Modified>2014-10-17T13:45:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\logo_postit_0001_Post-it.png">
+      <PackagePath>Assets\logo_postit_0001_Post-it.png</PackagePath>
+      <Modified>2014-10-22T09:30:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\logo_robinet.png">
+      <PackagePath>Assets\logo_robinet.png</PackagePath>
+      <Modified>2014-11-12T14:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\logo_vmc.png">
+      <PackagePath>Assets\logo_vmc.png</PackagePath>
+      <Modified>2014-11-12T14:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\planDemo_0001_Localisations-ouvertes.png">
+      <PackagePath>Assets\planDemo_0001_Localisations-ouvertes.png</PackagePath>
+      <Modified>2014-12-09T10:57:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T18:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-14T07:13:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T18:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-14T14:22:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-12T13:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.xr.xml">
+      <PackagePath>EcoTagDemo.xr.xml</PackagePath>
+      <Modified>2015-02-19T12:10:04.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-19T12:10:58.717</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,124 @@
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\App.xbf
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\MainPage.xbf
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.exe
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.pdb
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\resources.pri
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\AppxManifest.xml
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.build.appxrecipe
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\App.g.i.cs
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\App.g.cs
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.g.i.cs
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.g.cs
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\XamlTypeInfo.g.cs
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\App.xaml
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.xaml
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\App.xbf
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.xbf
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\XamlSaveStateFile.xml
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.exe
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.pdb
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\priconfig.xml
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\priconfig.xml.intermediate
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\layout.resfiles
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\layout.resfiles.intermediate
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\resources.resfiles
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\resources.resfiles.intermediate
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\pri.resfiles
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\pri.resfiles.intermediate
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\qualifiers.txt
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\qualifiers.txt.intermediate
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\ProjectArchitectures.txt
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.csprojResolveAssemblyReference.cache
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.csproj.GenerateResource.Cache
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\App.xbf
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\MainPage.xbf
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.exe
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.pdb
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\resources.pri
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\AppxManifest.xml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.build.appxrecipe
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.csprojResolveAssemblyReference.cache
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\App.g.i.cs
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\App.g.cs
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.g.i.cs
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.g.cs
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\App.xaml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.xaml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\App.xbf
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.xbf
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\XamlSaveStateFile.xml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.exe
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.pdb
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.csproj.GenerateResource.Cache
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\priconfig.xml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\priconfig.xml.intermediate
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\layout.resfiles
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\layout.resfiles.intermediate
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\resources.resfiles
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\resources.resfiles.intermediate
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\pri.resfiles
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\pri.resfiles.intermediate
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\qualifiers.txt
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\ProjectArchitectures.txt
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\App.xbf
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\MainPage.xbf
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.xr.xml
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.exe
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.pdb
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\resources.pri
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\AppxManifest.xml
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\EcoTagDemo.build.appxrecipe
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.csprojResolveAssemblyReference.cache
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\App.g.i.cs
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\App.g.cs
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.g.i.cs
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.g.cs
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\App.xaml
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.xaml
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\App.xbf
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\MainPage.xbf
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\XamlSaveStateFile.xml
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.exe
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.pdb
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\EcoTagDemo.csproj.GenerateResource.Cache
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\priconfig.xml
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\priconfig.xml.intermediate
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\layout.resfiles
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\layout.resfiles.intermediate
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\resources.resfiles
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\resources.resfiles.intermediate
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\pri.resfiles
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\pri.resfiles.intermediate
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\qualifiers.txt
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\deluxe\Desktop\EcoTagDemo\EcoTagDemo\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PCW-DEV2</Machine>
+    <WindowsUser>lcauret</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d4c01790-b7cf-4b7a-92ac-a75ed3c7ee16</PackageIdentityName>
+    <RegisteredManifestChecksum>3458A545271E481D8D149F26523D28A869262767C97EA0138EE5D92D678CEF61</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d4c01790-b7cf-4b7a-92ac-a75ed3c7ee16_1.0.0.0_neutral__fbgpqfc6hchjy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d4c01790-b7cf-4b7a-92ac-a75ed3c7ee16_fbgpqfc6hchjy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d4c01790-b7cf-4b7a-92ac-a75ed3c7ee16</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=lcauret</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-14T14:07:41.164</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\EcoTagDemo.exe">
+      <PackagePath>EcoTagDemo.exe</PackagePath>
+      <Modified>2014-10-14T14:07:41.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-14T08:13:55.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-14T13:37:21.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-14T14:07:40.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-14T14:07:41.098</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

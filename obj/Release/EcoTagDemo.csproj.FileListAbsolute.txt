@@ -1,0 +1,44 @@
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\App.xbf
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\MainPage.xbf
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\EcoTagDemo.exe
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\EcoTagDemo.pdb
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\resources.pri
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\AppxManifest.xml
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\bin\Release\EcoTagDemo.build.appxrecipe
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\App.g.i.cs
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\App.g.cs
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\MainPage.g.i.cs
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\MainPage.g.cs
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\XamlTypeInfo.g.cs
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\App.xaml
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\App.xbf
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\XamlSaveStateFile.xml
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\MainPage.xaml
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\MainPage.xbf
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\EcoTagDemo.exe
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\EcoTagDemo.pdb
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\priconfig.xml
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\priconfig.xml.intermediate
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\layout.resfiles
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\layout.resfiles.intermediate
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\resources.resfiles
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\resources.resfiles.intermediate
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\pri.resfiles
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\pri.resfiles.intermediate
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\qualifiers.txt
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\qualifiers.txt.intermediate
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lcauret\documents\visual studio 2013\Projects\EcoTagDemo\EcoTagDemo\obj\Release\ProjectArchitectures.txt
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\EcoTagDemo.csprojResolveAssemblyReference.cache
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\App.g.i.cs
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\App.g.cs
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\MainPage.g.i.cs
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\MainPage.g.cs
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\XamlTypeInfo.g.cs
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\App.xaml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\MainPage.xaml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\App.xbf
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\MainPage.xbf
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\XamlSaveStateFile.xml
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\EcoTagDemo.exe
+C:\Users\lcauret\Desktop\EcoTagDemo\EcoTagDemo\obj\Release\EcoTagDemo.pdb
